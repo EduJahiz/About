@@ -1,1 +1,1 @@
-# edujahiz
+# EduJahiz
